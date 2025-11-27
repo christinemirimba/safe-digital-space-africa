@@ -10,14 +10,14 @@ const tools = [
     icon: Shield,
     title: "Privacy Checker",
     description: "Scan your social media accounts for privacy vulnerabilities and get personalized recommendations.",
-    status: "Available",
+    status: "Coming Soon",
     action: "Run Check",
   },
   {
     icon: Lock,
     title: "Password Manager Guide",
     description: "Learn how to use password managers to keep your accounts secure with strong, unique passwords.",
-    status: "Available",
+    status: "Coming Soon",
     action: "Learn More",
   },
   {
@@ -38,7 +38,7 @@ const tools = [
     icon: Smartphone,
     title: "Device Security Setup",
     description: "Step-by-step guide to securing your phone, tablet, and computer with essential security features.",
-    status: "Available",
+    status: "Coming Soon",
     action: "Get Started",
   },
   {
@@ -52,7 +52,7 @@ const tools = [
     icon: AlertCircle,
     title: "Threat Reporting Tool",
     description: "Safely report online harassment, threats, or abuse to our support team for immediate assistance.",
-    status: "Available",
+    status: "Coming Soon",
     action: "Report Issue",
   },
 ];

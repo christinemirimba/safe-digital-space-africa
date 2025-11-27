@@ -62,8 +62,9 @@ const DigitalLiteracy = () => {
         >
           <h1 className="mb-4 text-4xl font-bold md:text-5xl">Digital Literacy Hub</h1>
           <p className="mx-auto max-w-2xl text-lg text-muted-foreground">
-            Learn essential digital skills to navigate online spaces safely and confidently. 
-            Our courses are designed specifically for women and girls across Africa.
+            Welcome to your safe space for learning digital skills. Take your time, learn at your own pace, 
+            and know that you're not alone in this journey. Our courses are designed specifically for 
+            women and girls across Africa.
           </p>
         </motion.div>
 
@@ -158,20 +159,23 @@ const DigitalLiteracy = () => {
         >
           <Card className="bg-gradient-to-br from-primary/10 to-secondary/10">
             <CardHeader>
-              <CardTitle>Need Help Getting Started?</CardTitle>
+              <CardTitle>Support When You Need It</CardTitle>
               <CardDescription className="text-base">
-                Our team is here to support you on your digital literacy journey.
+                Take your time learning. When you're ready, our supportive team is here to help you succeed in your digital journey.
               </CardDescription>
             </CardHeader>
             <CardContent>
               <div className="flex flex-col gap-4 sm:flex-row">
                 <Button variant="default" className="transition-smooth">
-                  Book a Free Session
+                  Request Support (Optional)
                 </Button>
                 <Button variant="outline" className="transition-smooth">
-                  Download Study Guide
+                  Access Resources
                 </Button>
               </div>
+              <p className="text-xs text-muted-foreground mt-3">
+                Remember: You're learning at your own pace, and that's perfectly okay. 💚
+              </p>
             </CardContent>
           </Card>
         </motion.div>
